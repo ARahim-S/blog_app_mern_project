@@ -8,6 +8,8 @@ Frontend <br/>
 
 React.js
 Material UI
+Redux
+React Hook Form
 
 Backend <br/>
 
