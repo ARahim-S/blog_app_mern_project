@@ -16,4 +16,7 @@ Express.js
 Mongoose.js
 MongoDB
 
+Api
+axios
+
 Keep in mind that create MONGO DB cluster for this project. After that create .env file. Store your connection url in it.
